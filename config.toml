@@ -1,0 +1,5 @@
+baseURL = "https://missing.zhuoya.li/"
+languageCode = "en-us"
+title = "Ilozy Planet"
+theme = "ananke"
+featured_image = "/images/ilozy-planet.jpg"
